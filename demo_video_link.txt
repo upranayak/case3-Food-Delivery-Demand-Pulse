@@ -1,3 +1,0 @@
-Demo video: Not recorded (in-person walkthrough preferred).
-The notebook runs top-to-bottom; all outputs are reproducible.
-Loom link would be added here before final submission.
